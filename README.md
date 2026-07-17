@@ -1,5 +1,3 @@
-# UI-UX-Portfolio
-Professional UI/UX Design Portfolio by Raja Zulkarnain Hasibuan
 # Raja Zulkarnain Hasibuan
 
 UI/UX Designer
