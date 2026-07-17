@@ -9,7 +9,4 @@ Welcome to my UI/UX portfolio repository.
 ## Link Portfolio Website
 https://rajahasibuan57.framer.website
 
-## LinkedIn
-https://linkedin.com/in/rajazulkarnainhasibuan
-
 Thank you for visiting my portfolio.
